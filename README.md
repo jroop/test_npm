@@ -1,2 +1,2 @@
 # test_npm
-Test repository for getting to know Git and NPM for Nodejs
+Test repository for to Learn  Git and NPM for Nodejs
