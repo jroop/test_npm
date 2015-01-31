@@ -1,6 +1,6 @@
 {
-  "name": "test_npm",
-  "version": "1.0.0",
+  "name": "jtest_npm",
+  "version": "0.0.0",
   "description": "Learning how to create node npm packages",
   "main": "index.js",
   "scripts": {
